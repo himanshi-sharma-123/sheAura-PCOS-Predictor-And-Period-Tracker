@@ -4,7 +4,7 @@ from flask_cors import CORS
 import pickle
 app = Flask(__name__)
 CORS(app, supports_credentials=True)
-
+import os
 
 
 pickled_model = pickle.load(open("pcos_predict.pkl", "rb"))
@@ -26,4 +26,5 @@ def predict_pcos():
     
 
 if __name__ == "__main__":
-    app.run(port=8000)
+    port = int(os.environ.get("PORT", 8000))
+    app.run(host="0.0.0.0", port=port)
