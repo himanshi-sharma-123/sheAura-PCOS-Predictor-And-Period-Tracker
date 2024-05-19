@@ -27,7 +27,7 @@ const Signup = () => {
 
     try {
       const response = await fetch(
-        "http://localhost:5000/api/v1/users/register",
+        "https://she-aura-pcos-predictor-and-period-tracker.vercel.app/api/v1/users/register",
         {
           method: "POST",
           body: formData,

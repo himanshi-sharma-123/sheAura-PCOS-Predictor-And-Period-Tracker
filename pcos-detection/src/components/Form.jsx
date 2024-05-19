@@ -58,13 +58,16 @@ const Form = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      const response = await fetch("http://localhost:8000/predict-pcos", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify(formData),
-      });
+      const response = await fetch(
+        "https://she-aura-pcos-predictor-and-period-tracker.vercel.app/predict-pcos",
+        {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify(formData),
+        }
+      );
       const data = await response.json();
       setPrediction(data.prediction);
     } catch (error) {
