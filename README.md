@@ -49,3 +49,6 @@ includes a chatbot for seamless user interactions.
 
 <a href="https://github.com/ishhcode" target="_blank">Ishika Aggarwal</a>
 
+<a href="https://github.com/Ayush-mehta-04" target="_blank">Ayush Mehta</a>
+
+
