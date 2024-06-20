@@ -1,4 +1,4 @@
-![Screenshot 2024-04-24 175012](https://github.com/himanshi-sharma-123/sheAura-PCOS-Predictor-And-Period-Tracker/assets/78066781/04ecfb6b-fdb1-4f3a-bae7-7dfd10f6532e)## About
+## About
 1) sheAura is a website which is built by our major project team which have two major functionalities - a PCOS Predictor and Period Tracker.
 2) For predicting pcos the user have to fill out the form and for period tracker the user have to write her first day of last period, cycle length and period length and from this it will give her next period start date, ovulation date, fertile window and pregnancy test date.
 3) The PCOS predictor model boasts an impressive accuracy rate of 92%, complemented by a user-friendly website that
