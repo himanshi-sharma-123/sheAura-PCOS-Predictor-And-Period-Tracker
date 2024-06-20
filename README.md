@@ -1,4 +1,4 @@
 ## Team Members
 
-## [@username] (https://github.com/himanshi-sharma-123)
-## [@username] (https://github.com/ishhcode)
+## [Himanshi Sharma] (https://github.com/himanshi-sharma-123)
+## [Ishika Aggarwal] (https://github.com/ishhcode)
