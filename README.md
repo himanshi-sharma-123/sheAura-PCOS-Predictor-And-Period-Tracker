@@ -38,7 +38,14 @@ includes a chatbot for seamless user interactions.
    
    ![Screenshot 2024-04-24 175712](https://github.com/himanshi-sharma-123/sheAura-PCOS-Predictor-And-Period-Tracker/assets/78066781/77f6fcf0-72b0-4ed2-b14a-175dd5a9b093)
 
-8) Chatbot
+8) Dashboard
+
+   ![image](https://github.com/himanshi-sharma-123/sheAura-PCOS-Predictor-And-Period-Tracker/assets/78066781/21419c1f-b9e3-48a8-89c7-130c29c1001f)
+
+   ![image](https://github.com/himanshi-sharma-123/sheAura-PCOS-Predictor-And-Period-Tracker/assets/78066781/b0eac896-ac7e-420d-8c7f-14d228564176)
+
+
+10) Chatbot
 
    ![Screenshot 2024-04-24 175322](https://github.com/himanshi-sharma-123/sheAura-PCOS-Predictor-And-Period-Tracker/assets/78066781/9516f1ee-8468-43fe-9482-73759473a102)
 
