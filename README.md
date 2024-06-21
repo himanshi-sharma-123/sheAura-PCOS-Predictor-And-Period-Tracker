@@ -42,6 +42,12 @@ includes a chatbot for seamless user interactions.
 
    ![Screenshot 2024-04-24 175322](https://github.com/himanshi-sharma-123/sheAura-PCOS-Predictor-And-Period-Tracker/assets/78066781/9516f1ee-8468-43fe-9482-73759473a102)
 
+## Whole Project with Proper Commits
+
+<a href="https://github.com/ishhcode/PCOS-frontend" target="_blank">Frontend</a>
+
+<a href="https://github.com/ishhcode/PCOS_PREDICTION_APP" target="_blank">Backend</a>
+
 
 ## Team Members
 
